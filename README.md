@@ -1,0 +1,2 @@
+# FaceRecognitionApp
+Face detection app.
