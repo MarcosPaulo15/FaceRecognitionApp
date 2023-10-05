@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "449286918746",
+    "firebase_url": "https://captura-img-default-rtdb.firebaseio.com",
+    "project_id": "captura-img",
+    "storage_bucket": "captura-img.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449286918746:android:94a1904c22da49670ebe63",
+        "android_client_info": {
+          "package_name": "com.example.facerecognitionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxUXNc1VDVvD3eFijzfLP2s1uuv-d0woU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
